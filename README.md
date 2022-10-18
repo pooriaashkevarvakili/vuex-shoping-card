@@ -24,6 +24,8 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-shopping-cart
+shopping-cart 
+
+in project build  vuejs vuex
 
 https://shopping-cart-green-rho.vercel.app/
